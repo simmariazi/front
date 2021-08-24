@@ -1,0 +1,13 @@
+
+.typo-space-line::after{
+    color: rgb(25, 100, 41);
+  }
+  
+  .bg-secondary {
+    background-color: rgb(25, 100, 41);
+  
+  }
+
+  .text-primary {
+    color: green;
+}
